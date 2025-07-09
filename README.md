@@ -29,7 +29,7 @@ Some key visualizations include:
 ## Analyzing Employee Trends
 
 
-![Tableau Dashboard](https://github.com/swaapnaa/TABLEAU-PROJECTS/assets/149737403/f7622138-227d-488e-8fa0-576dba6c6372)
+![Tableau Dashboard](Assets/Tableau_Dashboard.png)
 
 
 ## About Tableau
