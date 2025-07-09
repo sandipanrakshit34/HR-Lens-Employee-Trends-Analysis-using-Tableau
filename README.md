@@ -2,7 +2,7 @@
 # HR Lens: Employee Trends Analysis using Tableau ![icons8-tableau-software-48](Assets/tableau.png)
 
 
-This repository contains Tableau dashboard, visualization, and data analysis projects I have created.
+This repository contains Tableau dashboard, visualization, and data analysis projects I have created. 
 
 
  ## Project Description
